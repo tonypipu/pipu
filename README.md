@@ -1,2 +1,2 @@
 # pipu
-Envía mensajes desde  Python a Whatsapp
+* Este proyecto fue creado para poder automatizar el envió de mensajes en WhatsApp
